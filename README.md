@@ -33,7 +33,8 @@
     This is the proxy server, it serves as a routing point for requests from the client end. it takes requests from the client and forwards it to the proper service.
 
 * **Database**
-* - The mongodb noSQL database was used for this project. Each microservices are attached to their own database but they can still communicate with wach other.
+
+  - The mongodb noSQL database was used for this project. Each microservices are attached to their own database but they can still communicate with wach other.
 
 * **How to run application**
 * - Install dependencies:

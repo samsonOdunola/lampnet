@@ -12,12 +12,11 @@
 ## Implementation:
 
 - **Stack Used**
-- - Expressjs: This was used to write the server code for the various microservices, third part libaries like cors, nodemon e.t. c. were also used
-- - Node js: This is the main platformm on which the application is built.
-- - Docker: containaerisation.
-
-* - MongoDb: noSQL database
-* - SwaggerUI: This is the api documentation platform.
+  - Expressjs: This was used to write the server code for the various microservices, third part libaries like cors, nodemon e.t. c. were also used
+  - Node js: This is the main platformm on which the application is built.
+  - Docker: containaerisation.
+  - MongoDb: noSQL database
+  - SwaggerUI: This is the api documentation platform.
 
 ## Approach to architecture design:
 

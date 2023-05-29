@@ -41,11 +41,11 @@
     - Navigate to each service/Folder including the gateway folder.
     - Run the command "npm install" this will install all the dependencies needed for the project
   - Servers:
-    The gateway serve is hosted locally on my machine at port 4000 "http://localhost:4000". in order to start the the gateway server
+    The gateway server will be hosted locally on your [machine](http://localhost:4000) at port 4000. in order to start the the gateway server
     - Move into the gateway directory "/gateway"
     - Run the command "npm start" to start the server or "npm run dev" to start the server in dev mode
     - Once the gateway server is up and running, repaeat the same step for the other services i.e. Inventory, Product and suppliers
     - If you have done the above steps correctly, all four servers should be running independently.
 
 * **Testing and Documentation**
-  - Swagger Ui: The swagger UI interface contains a detailed documentation of all the API calls that can be madeon this project. This can be located by entering "http://localhost:4000/api-docs" into the browser of your URL.Please ensure all the servers are running before testing!.
+  - Swagger Ui: The swagger UI interface contains a detailed documentation of all the API calls that can be madeon this project. This can be located by entering the [URL](http://localhost:4000/api-docs) into the browser of your URL.Please ensure all the servers are running before testing!.
